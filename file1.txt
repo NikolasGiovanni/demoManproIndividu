@@ -1,1 +1,2 @@
-baris 1 di remote
+baris 1 di remote (tambah di lokal)
+baris 2 di lokal
